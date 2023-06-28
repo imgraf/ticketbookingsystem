@@ -49,7 +49,7 @@ public class TicketBookingSystem {
         String[] actors10 = {"Matthew McConaughey", "Anne Hathaway"};
         Movie movie10 = new Movie("Interstellar", "Sci-Fi", "Christopher Nolan", actors10);
 
-        // ... add more movies
+
 
         Showtime showtime1 = new Showtime(movie1, LocalDateTime.of(2023, 7, 1, 17, 0), 100);
         Showtime showtime2 = new Showtime(movie1, LocalDateTime.of(2023, 7, 1, 20, 0), 100);
@@ -62,7 +62,7 @@ public class TicketBookingSystem {
         Showtime showtime9 = new Showtime(movie9, LocalDateTime.of(2023, 7, 1, 23, 0), 100);
         Showtime showtime10 = new Showtime(movie10, LocalDateTime.of(2023, 7, 1, 00, 0), 100);
 
-        // ... add more showtimes
+
 
         showtimes.addAll(Arrays.asList(showtime1, showtime2, showtime3, showtime4, showtime5, showtime6, showtime7, showtime8, showtime9, showtime10));
     }
