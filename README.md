@@ -10,7 +10,7 @@ The Ticket Booking System is a Java application that allows users to book ticket
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ticket-booking-system.git`
+1. Clone the repository: `git clone https://github.com/imgraf/ticketbookingsystem`
 2. Open the project in your Java IDE.
 3. Build and compile the project.
 4. Run the `App` class to start the application.
@@ -35,6 +35,5 @@ Contributions to the Ticket Booking System are welcome! If you would like to con
 4. Push your changes to the branch: `git push origin my-feature`
 5. Open a pull request and describe your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Author
+Graf, Raul (RG)
